@@ -1,24 +1,17 @@
 package ch.epfl.cs107.play;
-
 import ch.epfl.cs107.play.game.Game;
 import ch.epfl.cs107.play.game.actor.bike.BikeGame;
-import ch.epfl.cs107.play.game.actor.crate.CrateGame;
-import ch.epfl.cs107.play.game.tutorial.HelloWorldGame;
 import ch.epfl.cs107.play.io.DefaultFileSystem;
 import ch.epfl.cs107.play.io.FileSystem;
 import ch.epfl.cs107.play.io.FolderFileSystem;
 import ch.epfl.cs107.play.io.ResourceFileSystem;
 import ch.epfl.cs107.play.window.Window;
 import ch.epfl.cs107.play.window.swing.SwingWindow;
-import ch.epfl.cs107.play.game.tutorial.SimpleCrateGame;
-import ch.epfl.cs107.play.game.tutorial.RopeGame;
-import ch.epfl.cs107.play.game.tutorial.ScaleGame;
-import ch.epfl.cs107.play.game.tutorial.ContactGame;
 
 /**
  * Main entry point.
  */
-public class Program {
+public class Program{
 
 	/** Maximal time step allowed for a single frame. */
 	public static final float MAX_DELTA_TIME = 0.1f;
@@ -30,12 +23,14 @@ public class Program {
 	 *            ignored
 	 */
 	public static void main(String[] args) {
-
+	    
+	    
 		// Define cascading file system
 		FileSystem fileSystem = new FolderFileSystem(new ResourceFileSystem(DefaultFileSystem.INSTANCE));
 
 		// Use Swing display
 		Window window = new SwingWindow("Play", fileSystem);
+		
 		try {
 
 			// Create a demo game
