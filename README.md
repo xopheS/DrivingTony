@@ -34,23 +34,23 @@ running Program.java
 Controls
 --------
 
--   &larr : move to the left
+-   &larr; : move to the left
 
--   &rarr  : move to the right
+-   &rarr;  : move to the right
 
--   &larr : flip up the vehicule
+-   &uarr; : flip up the vehicule
 
--   &larr : flip down the vehicule
+-   &darr; : flip down the vehicule
 
--   $SPACE$ : change vehicule orientation
+-   SPACE : change vehicule orientation
 
--   $Z$ : fire missiles (applicable only with the tank)
+-   Z : fire missiles (applicable only with the tank)
 
--   $E$ : jump
+-   E : jump
 
--   $Shift$ : brake
+-   Shift : brake
 
--   $R$ : restart level
+-   R : restart level
 
 Levels
 ------
