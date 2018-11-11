@@ -73,11 +73,11 @@ Levels
 
 -   Objective : Kill the boss
 
-![Level 1](level-1.PNG){width="\linewidth"}
+![Level 1](level-1.PNG=250x250)
 
-![Level 2](level-2.PNG){width="\linewidth"}
+![Level 2](level-2.PNG)
 
-![Level 3](level-3.PNG){width="\linewidth"}
+![Level 3](level-3.PNG)
 
 Game elements
 =============
