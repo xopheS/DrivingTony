@@ -11,7 +11,7 @@ Description
 
 Driving Tony is a game coded in Java with the help of the Jbox2D
 library. This was a project for the CS-107 course at EPFL. Requirements
-: JBox2D Best experience on Windows.
+: JBox2D, best experience on Windows.
 
 Content
 =======
