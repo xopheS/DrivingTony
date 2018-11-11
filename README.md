@@ -34,13 +34,13 @@ running Program.java
 Controls
 --------
 
--   $\leftarrow$ : move to the left
+-   &larr : move to the left
 
--   $\rightarrow$ : move to the right
+-   &rarr  : move to the right
 
--   $\uparrow$ : flip up the vehicule
+-   &larr : flip up the vehicule
 
--   $\downarrow$ : flip down the vehicule
+-   &larr : flip down the vehicule
 
 -   $SPACE$ : change vehicule orientation
 
