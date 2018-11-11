@@ -62,7 +62,7 @@ Levels
 
 -   Objective : Kill the boss
 
-![Driving Tony Levels<span data-label="fig:levels"></span>](level-1.PNG "fig:")
+![Driving Tony Levels<span data-label="fig:levels"></span>](level-1.PNG)
 
 ![Driving Tony Levels<span data-label="fig:levels"></span>](level-2.PNG "fig:")
 
